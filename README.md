@@ -17,14 +17,6 @@ Get recipe by ID
 Update recipe
 Delete recipe
 
-## Project Structure
-
-config/
-controllers/
-models/
-routes/
-middleware/
-utils/
 
 ## Installation
 
@@ -45,7 +37,15 @@ http://localhost:5000
 ## API Endpoints
 
 POST /api/recipes
+
+
 GET /api/recipes
+
+
 GET /api/recipes/:id
+
+
 PUT /api/recipes/:id
+
+
 DELETE /api/recipes/:id
